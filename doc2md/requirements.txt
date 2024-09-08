@@ -1,0 +1,5 @@
+Markdown
+pandas
+numpy
+Pillow==9.4.0
+python-docx
