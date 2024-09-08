@@ -1,0 +1,55 @@
+{
+    "jiqizhixin":{
+        "source":"机器之心",
+        "fakeid": "MzA3MzI4MjgzMw=="
+    },
+
+    "liangziwei":{
+        "source":"量子位",
+        "fakeid": "MzIzNjc1NzUzMw=="
+    },
+
+    "xinzhiyuan":{
+        "source":"新智元",
+        "fakeid": "MzI3MTA0MTk1MA=="
+    },
+
+    "zhongguonengyuanbao":{
+        "source":"中国能源报",
+        "fakeid": "MjM5NTI4MTIyMg=="
+    },
+
+    "shengwugu":{
+        "source":"生物谷",
+        "fakeid": "MzI2NjY1NjA5Mw=="
+    },
+
+    "zhongguobaowu":{
+        "source":"中国宝武",
+        "fakeid": "MjM5MDEzNzA5Ng=="
+    },
+
+    "gaofenzikexueqianyan":{
+        "source":"高分子科学前沿",
+        "fakeid": "MzA5NjM5NzA5OA=="
+    },
+
+    "MaterialsViews":{
+        "source":"MaterialsViews",
+        "fakeid": "MzAxNTU4NzA0NA=="
+    },
+
+    "huagongxinxingcailiao":{
+        "source":"化工新型材料",
+        "fakeid": "MzU5OTcwMDk5NQ=="
+    },
+
+    "changangzh":{
+        "source":"中国长安汽车集团",
+        "fakeid": "MzAwNTAzMDA5Nw=="
+    },
+    "shenlangzh":{
+        "source":"长安深蓝公众号",
+        "fakeid": "Mzg3NDc2NTkzNw=="
+    }
+}
